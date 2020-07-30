@@ -31,3 +31,7 @@ For help with anagrams, there are books and computer files containing lists of t
         EIPSTR - Esprit, priest, sprite, stripe
       
 If you had such a book, you could quickly search for answers.
+
+## Author:
+
+Sourangshu Ghosh
